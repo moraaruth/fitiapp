@@ -85,11 +85,11 @@ const HomePage = () => {
               {/* IMAGE CONTANINER */}
               <div className="relative aspect-square max-w-lg mx-auto">
                 <div className="relative overflow-hidden rounded-lg bg-cyber-black">
-                  <img
-                    src="/hero-ai3.png"
-                    alt="AI Fitness Coach"
-                    className="size-full object-cover object-center"
-                  />
+                <img
+  src="/close-up-cartoon-characters-with-headphones_23-2150964427.avif"
+  alt="AI Fitness Coach"
+  className="size-full object-cover object-center"
+/>
 
                   {/* SCAN LINE */}
                   <div className="absolute inset-0 bg-[linear-gradient(transparent_0%,transparent_calc(50%-1px),var(--cyber-glow-primary)_50%,transparent_calc(50%+1px),transparent_100%)] bg-[length:100%_8px] animate-scanline pointer-events-none" />

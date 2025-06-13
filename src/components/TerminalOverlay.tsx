@@ -8,7 +8,7 @@ const TerminalOverlay = () => {
             <div className="w-2 h-2 rounded-full bg-primary animate-pulse"></div>
             <p className="text-xs text-primary">SYSTEM ACTIVE</p>
           </div>
-          <p className="text-xs text-muted-foreground">ID:78412.93</p>
+          <p className="text-xs text-muted-foreground">ID:45987.93</p>
         </div>
 
         <p className="text-sm text-foreground mb-2 tracking-tight">

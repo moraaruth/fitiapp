@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "CodeFlex AI - Get Jacked",
+  title: "FitiApp - Get Fit With AI",
   description: "A modern fitness AI platform to get jacked for free.",
 };
 

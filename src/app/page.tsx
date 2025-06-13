@@ -34,15 +34,15 @@ const HomePage = () => {
               {/* SEPERATOR LINE */}
               <div className="h-px w-full bg-gradient-to-r from-primary via-secondary to-primary opacity-50"></div>
 
-              <p className="text-xl text-muted-foreground w-2/3">
-                Talk to our AI assistant and get personalized diet plans and workout routines
-                designed just for you
-              </p>
+            <p className="text-xl text-muted-foreground w-3/3">
+  Chat with our smart AI assistant to unlock tailor-made diet plans and workout routines—
+  built just for your body, your goals, and your lifestyle.
+</p>
 
               {/* STATS */}
               <div className="flex items-center gap-10 py-6 font-mono">
                 <div className="flex flex-col">
-                  <div className="text-2xl text-primary">500+</div>
+                  <div className="text-2xl text-primary">50+</div>
                   <div className="text-xs uppercase tracking-wider">ACTIVE USERS</div>
                 </div>
                 <div className="h-12 w-px bg-gradient-to-b from-transparent via-border to-transparent"></div>

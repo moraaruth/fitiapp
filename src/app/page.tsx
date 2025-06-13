@@ -17,17 +17,17 @@ const HomePage = () => {
             <div className="lg:col-span-7 space-y-8 relative">
               <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight">
                 <div>
-                  <span className="text-foreground">Transform</span>
+                  <span className="text-foreground">Train</span>
                 </div>
                 <div>
-                  <span className="text-primary">Your Body</span>
+                  <span className="text-primary">Smarter</span>
                 </div>
                 <div className="pt-2">
-                  <span className="text-foreground">With Advanced</span>
+                  <span className="text-foreground">Tranform Faster </span>
                 </div>
                 <div className="pt-2">
-                  <span className="text-foreground">AI</span>
-                  <span className="text-primary"> Technology</span>
+                  <span className="text-foreground"></span>
+                  <span className="text-primary"> AI-Driven Fitness</span>
                 </div>
               </h1>
 
